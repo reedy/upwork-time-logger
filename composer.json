@@ -1,0 +1,6 @@
+{
+    "name": "reedy/upwork-time-logger",
+    "require": {
+        "upwork/php-upwork": "1.2.3"
+    }
+}
