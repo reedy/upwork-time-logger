@@ -1,5 +1,7 @@
 {
     "name": "reedy/upwork-time-logger",
+    "description": "Time logger thing for Upwork; because why am I doing this manually",
+    "license": "GPL-3.0+",
     "require": {
         "upwork/php-upwork": "1.2.3"
     }
